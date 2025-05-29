@@ -1,4 +1,4 @@
-<h2 align="center">Hola soy Alejandro. ¡Encantado de conocerte! 👋</h2>
+<h2 align="center">Hola soy Alejandro. ¡Un placer que estes en mi pagina! 👋</h2>
 
 ---
 
