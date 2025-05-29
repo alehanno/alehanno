@@ -35,10 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehanno&layout=compact&hide_title=true&hide_border=true&card_width=320&theme=transparent" alt="Top Lenguajes">
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/150x100?text=Total+Contributions" alt="Total Contributions">
-  <img src="https://via.placeholder.com/150x100?text=Current+Streak" alt="Current Streak">
-  <img src="https://via.placeholder.com/150x100?text=Longest+Streak" alt="Longest Streak">
 </p>
 
 ---
